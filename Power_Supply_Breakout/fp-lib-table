@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Power_Supply_Breakout")(type "KiCad")(uri "${KIPRJMOD}/Power_Supply_Breakout.pretty")(options "")(descr ""))
+)
